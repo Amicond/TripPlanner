@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_trip_select">Выберите путешествие</string>
+    <string name="title_activity_trip_add">Новое путешествие</string>
+    <string name="tv_activity_trip_add_name">Название</string>
+    <string name="tv_activity_trip_add_start">Отправление</string>
+    <string name="tv_activity_trip_add_end">Возвращение</string>
+    <string name="title_activity_trip_details">trip_details</string>
+    <string name="btn_activity_trip_add_add">Добавить</string>
+    <string name="btn_activity_trip_add_back">Назад</string>
+    <string name="title_activity_museum_edit">museum_edit</string>
+    <string name="title_activity_add_event">add_event</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>
